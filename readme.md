@@ -1,4 +1,4 @@
-# Гайд по django rest framework (DRF) от [Николая Павлина](https://t.me/pavlin_share)
+
 
 ## Зависимости
 ### [django rest framework](https://www.django-rest-framework.org/)
